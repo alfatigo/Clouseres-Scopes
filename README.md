@@ -1,2 +1,2 @@
 # Clouseres-Scopes
-this is a preacrtice using closueres and scopes - JS
+this is a practice about closueres and scopes - JS
