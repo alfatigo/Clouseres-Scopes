@@ -1,7 +1,7 @@
 //Variables
 // Semi-Colom are not mandaatory on Js due to they will be asign later. 
 var x; //Declarate a ariable 
-var y = 'asign'; // Declarate and Asign 
+var y = 'asign'; // Redeclare
 
 var x = 'Declarate once again';
 
@@ -14,3 +14,13 @@ function fristName(){
 }
 
 fristName();
+
+
+function countiries(){
+    country = 'USA';
+    console.log(country);
+}
+
+countiries();
+console.log(country);
+
